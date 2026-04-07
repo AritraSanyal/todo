@@ -27,9 +27,9 @@ class AppConstants {
   ];
 
   // Date format
-  static const String dateFormat = 'dd mmm yyyy';
+  static const String dateFormat = 'dd MMM yyyy';
   static const String timeFormat = 'HH:mm'; // "05 Apr 2026, 14:30"
-  static const String dateTimeFormat = 'dd mmm yyyy, HH:mm'; // "April 2026"
+  static const String dateTimeFormat = 'dd MMM yyyy, HH:mm'; // "April 2026"
   static const String dayMonthFormat = 'dd MMM'; //"05 Apr"
 
   // Validation
